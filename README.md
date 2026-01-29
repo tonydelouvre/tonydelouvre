@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0033&size=20&center=true&vCenter=true&width=700&lines=MATRIX+RAIN+ACTIVE;RED+ZONE+FULL+SCREEN;SYSTEM+BREACHED;WELCOME+BACK+OPERATOR">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=380&section=header"
+       width="100%">
 </p>
 
 <!-- ===== TYPING EFFECT ===== -->
