@@ -1,6 +1,6 @@
 <!-- ===== BANNER ===== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif"
+  <img src="https://giphy.com/embed/YQitE4YNQNahy"
        width="400"
        style="max-width:100%; border-radius:10px;">
 </p>
