@@ -1,16 +1,39 @@
-## Hi there 👋
+<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100%">
 
-<!--
-**tonydelouvre/tonydelouvre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0033&size=22&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED;WELCOME+BACK+OPERATOR;SYSTEM+ONLINE;RED+ZONE+ACTIVATED)
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100%">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0033&size=22&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED;WELCOME+BACK+OPERATOR;SYSTEM+ONLINE;RED+ZONE+ACTIVATED">
+</p>
+
+---
+
+```bash
+root@system:~# init user_profile
+[✔] Authentication success
+[✔] Loading data...
+
+username : tonydelouvre
+name     : Yanuar Arga Sulthony
+location : Surabaya, Jawa Timur
+mode     : RED DARK
+status   : ACTIVE
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Dra-Ganzz&color=ff0033&style=flat-square"> </p>
+
+OS        : Linux / Windows
+Editor    : VS Code
+Focus     : Web • Backend • Security
+Languages : PHP | JavaScript | HTML | CSS
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tonydelouvre&show_icons=true&theme=radical"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonydelouvre&layout=compact&theme=radical"> </p>
+
+<p align="center"> <a href="https://github.com/tonydelouvre"> <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=ff0033"> </a> <a href="https://t.me/tonydelouvre"> <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=ff0033"> </a> <a href="https://instagram.com/tonydelouvre"> <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=ff0033"> </a> </p>
+
+root@system:~# logout
+[✔] Session terminated
+<p align="center"> <sub>Silent. Deadly. Persistent.</sub> </p> ```
