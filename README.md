@@ -1,7 +1,7 @@
 <!-- ===== BANNER ===== -->
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif"
-       width="800"
+       width="400"
        style="max-width:100%; border-radius:10px;">
 </p>
 
@@ -25,15 +25,17 @@ status   : ACTIVE
 ```
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dra-Ganzz&color=ff0033&style=flat-square"> </p>
 
+```bash
 OS        : Linux / Windows
 Editor    : VS Code
 Focus     : Web • Backend • Security
 Languages : PHP | JavaScript | HTML | CSS
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tonydelouvre&show_icons=true&theme=radical"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonydelouvre&layout=compact&theme=radical"> </p>
+```
 
 <p align="center"> <a href="https://github.com/tonydelouvre"> <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=ff0033"> </a> <a href="https://t.me/tonydelouvre"> <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=ff0033"> </a> <a href="https://instagram.com/tonydelouvre"> <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=ff0033"> </a> </p>
 
+```bash
 root@system:~# logout
 [✔] Session terminated
+```
 <p align="center"> <sub>Silent. Deadly. Persistent.</sub> </p> 
