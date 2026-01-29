@@ -5,6 +5,10 @@
        style="max-width:100%; border-radius:10px;">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=180&section=header&text=010101%20MATRIX%20MODE%20010101&fontColor=ff0033&fontSize=22&animation=fadeIn">
+</p>
+
 <!-- ===== TYPING EFFECT ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0033&size=22&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED;WELCOME+BACK+OPERATOR;SYSTEM+ONLINE;RED+ZONE+ACTIVATED">
