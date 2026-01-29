@@ -1,11 +1,11 @@
-<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100%">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0033&size=22&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED;WELCOME+BACK+OPERATOR;SYSTEM+ONLINE;RED+ZONE+ACTIVATED)
-
+<!-- ===== BANNER ===== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif"
+       width="800"
+       style="max-width:100%; border-radius:10px;">
 </p>
 
+<!-- ===== TYPING EFFECT ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0033&size=22&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED;WELCOME+BACK+OPERATOR;SYSTEM+ONLINE;RED+ZONE+ACTIVATED">
 </p>
@@ -22,7 +22,7 @@ name     : Yanuar Arga Sulthony
 location : Surabaya, Jawa Timur
 mode     : RED DARK
 status   : ACTIVE
-
+```
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dra-Ganzz&color=ff0033&style=flat-square"> </p>
 
 OS        : Linux / Windows
@@ -36,4 +36,4 @@ Languages : PHP | JavaScript | HTML | CSS
 
 root@system:~# logout
 [✔] Session terminated
-<p align="center"> <sub>Silent. Deadly. Persistent.</sub> </p> ```
+<p align="center"> <sub>Silent. Deadly. Persistent.</sub> </p> 
